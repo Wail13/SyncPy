@@ -1,6 +1,6 @@
 
- -Installation
- -=============================
+ Installation
+ =============================
  
  
  - Download and Install Anaconda3
