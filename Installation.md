@@ -4,6 +4,8 @@
   
  -Installation
  -=============================
+ 
+ 
  -- Download and Install Anaconda3
  -- Create anaconda environement from anaconda-cloud
  -- Activate environement and test
