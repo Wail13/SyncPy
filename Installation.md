@@ -37,11 +37,7 @@ conda env create wail/syncpylinux
 Now you have installed an environement that have all dependencies required for SyncPy to work( if the instruction above were successful). 
 What remains is to test on a real example using jupyther notebook.
 
-First open Anaconda-navigator:
-
-![Anaconda](/img/1.png)
-
-Choose SyncPy environement and lunch jupyter notebook
+First open Anaconda-navigator, Choose SyncPy environement and then lunch jupyter notebook:
 
 ![Anaconda](/img/2.png)
 
