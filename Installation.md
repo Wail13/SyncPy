@@ -29,8 +29,8 @@ Open terminal console and type
  conda env create wail/syncpylinux
 
 # Activate env and install syncpy package
- source activate syncpylinux   #for linux/mac
- activate  syncpy 			  #for windows
+ source activate syncpylinux		 #for linux/mac
+ activate  syncpy 		#for windows
 
 # installing syncpy package in anaconda environement
  pip install syncpy
