@@ -18,9 +18,8 @@ In order to create an anaconda environement please follow the instruction below:
 
 Open terminal console and type
 
- _Username and password is required for this step to connect anaconda-cloud_
 ```
- _Username and password is required for this step to connect anaconda-cloud_
+#Username and password is required for this step to connect anaconda-cloud
 anaconda login  
 
 #create env in your local machine for windows
