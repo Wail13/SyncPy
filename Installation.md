@@ -20,20 +20,20 @@ Open terminal console and type
 
 ```
 #Username and password is required for this step to connect anaconda-cloud
-anaconda login  
+ anaconda login  
 
 #create env in your local machine for windows
-conda env create wail/syncpy 
+ conda env create wail/syncpy 
 
 #create env in your local machine for linux /mac
-conda env create wail/syncpylinux
+ conda env create wail/syncpylinux
 
 # Activate env and install syncpy package
-source activate syncpylinux   #for linux/mac
-activate  syncpy  #for windows
+ source activate syncpylinux   #for linux/mac
+ activate  syncpy 			  #for windows
 
 # installing syncpy package in anaconda environement
-pip install syncpy
+ pip install syncpy
 
 
 ```
