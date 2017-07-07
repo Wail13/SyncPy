@@ -27,6 +27,15 @@ conda env create wail/syncpy
 
 #create env in your local machine for linux /mac
 conda env create wail/syncpylinux
+
+# Activate env and install syncpy package
+source activate syncpylinux   #for linux/mac
+activate  syncpy  #for windows
+
+# installing syncpy package in anaconda environement
+pip install syncpy
+
+
 ```
 
 
