@@ -4,7 +4,7 @@ Installation
  
  - Download and Install Anaconda3
  - Create anaconda environement from anaconda-cloud
- - Activate environement and test
+ - Open anaconda-navigator and lunch jupyther notebook
  
  -Step 1: Download and Install Anaconda3
 -----------------------------------------
@@ -32,5 +32,12 @@ conda env create wail/syncpylinux
 
  
 
- -Step 3: Activate environement and test
+ -Step 3: Open anaconda-navigator and lunch jupyther notebook
 ----------------------------------------------------------
+Now you have installed an environement that have all dependencies required for SyncPy to work( if the instruction above were successful). 
+What remains is to test on a real example using jupyther notebook.
+
+First open Anaconda-navigator:
+
+![Anaconda](/img/1.png)
+
