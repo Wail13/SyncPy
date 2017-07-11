@@ -407,5 +407,5 @@ plot_result2(Dij,threshold=0.01,w=200)
 ```
 
 
-![png](output_20_0.png)
+![png](img/output_20_0.png)
 
