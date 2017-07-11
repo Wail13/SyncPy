@@ -50,3 +50,8 @@ Open Anaconda-navigator ->Choose SyncPy environement ->lunch jupyter notebook:
 
 ![Anaconda](/img/2.png)
 
+Congrats now you have installed SyncPy in your environement.
+Next step, go to examples section and explore :)
+
+
+
