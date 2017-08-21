@@ -1,4 +1,4 @@
-# Example: oneclassSVM
+# Example: LSTM-CNN
 Try running this on your jupyther notebook by downloading:
 
 [LSTM-CNN notebook](https://github.com/Wail13/SyncPy/tree/master/examples)
