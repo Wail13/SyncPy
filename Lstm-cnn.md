@@ -1,4 +1,7 @@
+# Example: oneclassSVM
+Try running this on your jupyther notebook by downloading:
 
+[oneclassSVM notebook](https://github.com/Wail13/SyncPy/tree/master/examples)
 
 ```python
 ### This software is a computer program whose for investigating
