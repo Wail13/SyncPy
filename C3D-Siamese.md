@@ -22,23 +22,40 @@ import tensorflow as tf
 #import input_data
 #import c3d_model
 import numpy as np
+from IPython.display import Image
 pickle_path_kth="data/kth_data.p"
 pickle_path_Weizmann="data/Weizmann_test.p"
 ```
-
-    /home/jan/anaconda3/envs/tf5gpu/lib/python3.6/site-packages/h5py/__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
-      from ._conv import register_converters as _register_converters
-
 
 ## Presenting C3D-siamese model
 
 First, a siamese network is defined as follow:
 
-![siamese.gif](attachment:siamese.gif)
+
+```python
+Image(filename='../img/siamese.gif') 
+```
+
+
+
+
+    <IPython.core.display.Image object>
+
+
 
 C3D model is defined as follow:
 
-![c3d.jpg](attachment:c3d.jpg)
+
+```python
+Image(filename='../img/c3d.jpg') 
+```
+
+
+
+
+![jpeg](output_6_0.jpeg)
+
+
 
 ## Purpose 
 
@@ -63,7 +80,17 @@ the C3D-siamese architecture is derived from the siamese one where:
 
 ### We train only this Network:
 
-![nn.png](attachment:nn.png)
+
+```python
+Image(filename='../img/nn.png') 
+```
+
+
+
+
+![png](output_12_0.png)
+
+
 
 #  KTH and WEIZMANN Datasets
 
