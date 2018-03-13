@@ -33,13 +33,13 @@ First, a siamese network is defined as follow:
 
 
 ```python
-Image(filename='../img/siamese.gif') 
+Image(filename='../img/siamese.png') 
 ```
 
 
 
 
-    <IPython.core.display.Image object>
+![png](output_4_0.png)
 
 
 
