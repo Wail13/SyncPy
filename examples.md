@@ -7,4 +7,4 @@
 [LSTM notebook](https://wail13.github.io/Syncsite/Lstm-cnn.html)
 
 ### Example: C3D-Siamese
-[LSTM notebook](https://wail13.github.io/Syncsite/C3D-Siamese.html)
+[C3D-Siamese notebook](https://wail13.github.io/Syncsite/C3D-Siamese.html)
